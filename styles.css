@@ -1,0 +1,9 @@
+nav {
+background-color: pink;
+display: flex;
+}
+nav li {
+justify-items: space-around;
+list-style: none;
+display: inline;
+}
