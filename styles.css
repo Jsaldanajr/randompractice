@@ -1,9 +1,18 @@
 nav {
 background-color: pink;
-display: flex;
 }
 nav li {
-justify-items: space-around;
+justify-content: space-evenly;
 list-style: none;
-display: inline;
+text-align: center;
+display: inline-block;
+
+}
+footer {
+background-color: pink;
+list-style: none;
+}
+footer li {
+text-align: center;
+list-style: none;
 }
